@@ -1,0 +1,21 @@
+site_name: Ploopy Bean Pointing Stick
+site_url: https://ploopyco.github.io/bean-pointing-stick
+theme:
+  name: material
+  features:
+    # - toc.integrate
+    - navigation.tracking
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+nav:
+  - 'index.md'
+  - 'assembly-instructions.md'
+  - Appendices:
+    - 'appendices/pcbs.md'
+    - 'appendices/3d-printing.md'
+    - 'appendices/hardware.md'
+    - 'appendices/programming.md'
+    - 'appendices/keymap.md'
+  - 'license.md'
