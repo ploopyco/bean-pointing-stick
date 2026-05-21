@@ -1,7 +1,7 @@
 # Appendix B: 3D printed parts
 
 ## Buying 3D-printed parts from us
-Not everyone has access to a 3D-printer. [That's why we sell fully-assembled Knobs](https://ploopy.co/product-category/bean/). Here's why that's great for you:
+Not everyone has access to a 3D-printer. [That's why we sell fully-assembled Beans](https://ploopy.co/product-category/bean/). Here's why that's great for you:
 
 - You get all of the 3D-printed parts, guaranteed free of manufacturing defects
 - You won't waste time spending hours tweaking settings
