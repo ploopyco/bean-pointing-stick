@@ -39,7 +39,7 @@
 
 - A #1 Phillips head screwdriver
 
-![](../img/1.JPG)
+![](img/1.JPG)
 
 
 ## Step 2: Place PCB into Base
@@ -49,7 +49,7 @@
   <span><strong>Tip:</strong> The PCB may require a bit of force to get in.</span>
 </div>
 
-![](../img/2.jpg)
+![](img/2.jpg)
 
 ## Step 3: Insert Magnet into Spring
 
@@ -61,11 +61,11 @@
 - The magnet requires a bit of force to fully insert.
 - Once inserted, the Magnet will be very difficult to remove.
 
-![](../img/3.jpg)
+![](img/3.jpg)
 
 ## Step 4: Place Friction Nub onto Spring
 
-![](../img/4.jpg)
+![](img/4.jpg)
 
 - If you want to 3D-print your own nub, you can use [this free design to do so](https://makerworld.com/en/models/483268-trackpoint-cap-for-thinkpad-keyboard#profileId-402360).
 
@@ -76,7 +76,7 @@
   <span><strong>Tip:</strong> The Spring must be oriented correctly in order to properly insert. See the photo for details.</span>
 </div>
 
-![](../img/5.jpg)
+![](img/5.jpg)
 
 ## Step 6: Place Top onto Base
 
@@ -85,19 +85,19 @@
   <span><strong>Tip:</strong> The Top should snap into place on the Base.</span>
 </div>
 
-![](../img/6.jpg)
+![](img/6.jpg)
 
 ## Step 7: Screw Top to Base
 
-![](../img/7.jpg)
+![](img/7.jpg)
 
 ## Step 8: Place Friction Pads on Base
 
-![](../img/8.jpg)
+![](img/8.jpg)
 
 ## Step 9: All done!
 
-![](../img/9.jpg)
+![](img/9.jpg)
 
 ## Post Build Steps:
 

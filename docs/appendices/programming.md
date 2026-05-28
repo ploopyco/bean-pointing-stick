@@ -32,13 +32,28 @@ For more details on building QMK firmware in general, see the [QMK firmware guid
 
 ## Putting the Ploopy device into bootloader mode
 
-Putting the Ploopy device into bootloader mode is very simple and straightforward.
+Under normal circumstances, the device can be put into bootloader mode with a special startup procedure.
+
+1. Identify the "bootloader" button on the device's keymap. [The default keymap is available here](keymap.md).
+2. Unplug the device.
+3. Hold down the "bootloader" button.
+4. Plug in the device.
+5. The computer should recognise that a mass storage device was just plugged in. Once this is done, you should be able to drag and drop files onto the Ploopy device, as if the board was a USB drive.
+
+And that's it. While plugged in this way, the Ploopy device will accept new firmware.
+
+If you want to upload a new firmware file (a ".uf2" file, like "ploopy_aplus_v42069" or something), just drag it into the folder, and it'll automatically install on the Ploopy device and restart itself.
+
+
+## Putting the Ploopy device into bootloader mode if the device is bricked
+
+If the device cannot be put into bootloader mode using the above procedure, there is another procedure that can be used to force the device into bootloader mode. However, it involves opening the device and is more involved.
 
 1. Unplug it from your computer.
 2. Open it by removing the screws in the Base and removing the Top.
 3. Look for a pair of vias (gold-plated holes) on the board. Here's a photo for reference:
 
-![](../../img/vias.jpg)
+![](../img/vias.jpg)
 
 4. Get a paper clip (non-insulated, i.e. no plastic covering it) or a pair of tweezers, or some wire. Whatever you've got on hand that's metal.
 5. Stick the paper clip or tweezers into the holes. You're trying to form an electrical connection between the two holes.

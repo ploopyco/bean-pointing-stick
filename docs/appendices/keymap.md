@@ -2,7 +2,7 @@
 
 The default keymap for the Bean is as follows.
 
-![](../../img/keymap.JPG)
+![](../img/keymap.JPG)
 
 All of these functions can be customized using [VIA, a free open-source webapp](https://usevia.app).
 
