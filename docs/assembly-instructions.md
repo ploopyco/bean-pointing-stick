@@ -67,8 +67,6 @@
 
 ![](img/4.jpg)
 
-- If you want to 3D-print your own nub, you can use [this free design to do so](https://makerworld.com/en/models/483268-trackpoint-cap-for-thinkpad-keyboard#profileId-402360).
-
 ## Step 5: Place Spring into Top
 
 <div class="tooltip tip">
